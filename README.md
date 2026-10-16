@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-estatística-013243?logo=numpy)
 ![License](https://img.shields.io/badge/licença-MIT-green)
-![Tests](https://github.com/fykwork9926/logsentinel/actions/workflows/tests.yml/badge.svg)
 
 **LogSentinel** é uma ferramenta de linha de comando (CLI) que analisa logs de acesso de servidores web (**Apache/Nginx**), gera estatísticas de tráfego e **detecta automaticamente atividades suspeitas**, como força bruta, varredura de diretórios, flood de requisições e tentativas de SQL injection/XSS.
 
